@@ -1,0 +1,6 @@
+object label | row position of the center | column position of the center | minimum moment of inertia | orientation
+1 170 305 6.30435e+06 0.472664
+2 163 160 84338.7 1.00741
+3 156 448 1.21598e+06 -1.17043
+4 296 398 1.05492e+06 0.816153
+5 337 117 3.59829e+06 0.435218
